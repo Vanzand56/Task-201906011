@@ -1,3 +1,3 @@
-slcommand
+# slcommand
 
 #AGU情報社会論
