@@ -1,1 +1,3 @@
-# Task-201906011
+slcommand
+
+#AGU情報社会論
